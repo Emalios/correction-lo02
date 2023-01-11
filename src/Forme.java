@@ -1,0 +1,5 @@
+public enum Forme {
+
+    GRAND_ANNEAU, PETIT_ANNEAU, MOYEN_ANNEAU, BOULE
+
+}
